@@ -1,4 +1,4 @@
-# Hydra-NeXt
+# Hydra-NeXt (ICCV 25)
 The official repository for [Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training](https://arxiv.org/abs/2503.12030).
 
 # Installation
@@ -33,10 +33,12 @@ bash leaderboard/scripts/run_evaluation_multi_vad.sh
 
 # Citation
 ```
-@article{li2025hydra,
-  title={Hydra-next: Robust closed-loop driving with open-loop training},
-  author={Li, Zhenxin and Wang, Shihao and Lan, Shiyi and Yu, Zhiding and Wu, Zuxuan and Alvarez, Jose M},
-  journal={arXiv preprint arXiv:2503.12030},
-  year={2025}
+@InProceedings{Li_2025_ICCV,
+    author    = {Li, Zhenxin and Wang, Shihao and Lan, Shiyi and Yu, Zhiding and Wu, Zuxuan and Alvarez, Jose M.},
+    title     = {Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {27305-27314}
 }
 ```
